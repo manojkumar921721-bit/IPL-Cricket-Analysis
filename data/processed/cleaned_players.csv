@@ -1,0 +1,567 @@
+player_name,dob,batting_hand,bowling_skill,country,age
+A Ashish Reddy,1991-02-24,Right_Hand,Right-arm medium,India,35.0
+A Chandila,1983-12-05,Right_Hand,Right-arm offbreak,India,43.0
+A Chopra,1977-09-19,Right_Hand,Right-arm offbreak,India,49.0
+A Choudhary,,Right_Hand,Left-arm fast-medium,,
+A Dananjaya,,Right_Hand,Right-arm offbreak,,
+A Flintoff,1977-12-06,Right_Hand,Right-arm fast-medium,England,49.0
+A Hales,,Right_Hand,,,
+A Joseph,,Right_Hand,Right-arm fast,,
+A Kumble,1970-10-17,Right_Hand,Legbreak googly,India,56.0
+A Mishra,1982-11-24,Right_Hand,Legbreak,India,44.0
+A Mithun,1989-10-25,Right_Hand,Right-arm medium,India,37.0
+A Mukund,1990-01-06,Right_Hand,Legbreak googly,India,36.0
+A Nehra,1979-04-29,Right_Hand,Left-arm medium-fast,India,47.0
+A Nel,1977-07-15,Right_Hand,Right-arm fast-medium,South Africa,49.0
+A Roy,,Left_Hand,Slow left-arm orthodox,,
+A Singh,1981-06-21,Right_Hand,Right-arm medium-fast,India,45.0
+A Symonds,1975-06-09,Right_Hand,Right-arm offbreak,Australia,51.0
+A Turner,,Right_Hand,,,
+A Uniyal,1981-11-21,Right_Hand,Left-arm medium,India,45.0
+A Zampa,1992-03-31,Right_Hand,Legbreak googly,Australia,34.0
+AA Bilakhia,1986-05-31,Right_Hand,Right-arm medium,India,40.0
+AA Chavan,1985-10-28,Right_Hand,Slow left-arm orthodox,India,41.0
+AA Jhunjhunwala,1982-12-01,Right_Hand,Right-arm offbreak,India,44.0
+AA Kazi,1989-09-29,Right_Hand,Slow left-arm orthodox,India,37.0
+AA Noffke,1977-04-30,Right_Hand,Right-arm fast-medium,Australia,49.0
+AB Agarkar,1977-12-04,Right_Hand,Right-arm fast,India,49.0
+AB Barath,1990-04-14,Left_Hand,Right-arm offbreak,India,36.0
+AB de Villiers,1984-02-17,Right_Hand,Right-arm medium,South Africa,42.0
+AB Dinda,1984-03-25,Right_Hand,Right-arm medium-fast,India,42.0
+AB McDonald,1981-06-05,Right_Hand,Right-arm fast-medium,Australia,45.0
+Abdur Razzak,1982-06-15,Left_Hand,Slow left-arm orthodox,Bangladesh,44.0
+AC Blizzard,1984-06-27,Left_Hand,Left-arm medium,Australia,42.0
+AC Gilchrist,1971-11-14,Left_Hand,Right-arm offbreak,Australia,55.0
+AC Thomas,1977-02-09,Right_Hand,Right-arm fast-medium,England,49.0
+AC Voges,1979-10-04,Right_Hand,Slow left-arm orthodox,Australia,47.0
+AD Mascarenhas,1977-10-30,Right_Hand,Right-arm fast-medium,England,49.0
+AD Mathews,1987-06-02,Right_Hand,Right-arm fast-medium,Sri Lanka,39.0
+AD Nath,1993-05-10,Right_Hand,Right-arm medium-fast,India,33.0
+AD Russell,1988-04-29,Right_Hand,Right-arm fast,West Indies,38.0
+AF Milne,1992-04-13,Right_Hand,Right-arm fast,New Zealand,34.0
+AG Murtaza,1990-01-01,Left_Hand,Slow left-arm orthodox,India,36.0
+AG Paunikar,1988-04-18,Right_Hand,,India,38.0
+AJ Finch,1986-11-17,Right_Hand,Slow left-arm orthodox,Australia,40.0
+AJ Tye,,Right_Hand,Right-arm fast-medium,,
+AL Menaria,1990-10-29,Left_Hand,Slow left-arm orthodox,India,36.0
+AM Nayar,1983-10-08,Left_Hand,Right-arm medium,India,43.0
+AM Rahane,1988-06-06,Right_Hand,Right-arm medium,India,38.0
+AM Salvi,1981-10-20,Right_Hand,Right-arm medium,India,45.0
+AN Ahmed,1988-11-05,Right_Hand,Right-arm medium-fast,India,38.0
+AN Ghosh,1986-10-19,Right_Hand,Right-arm medium,India,40.0
+Anand Rajan,1987-04-17,Right_Hand,Right-arm medium,India,39.0
+Anirudh Singh,1980-08-02,Left_Hand,Right-arm medium,India,46.0
+Ankit Sharma,1991-04-20,Left_Hand,Slow left-arm orthodox,India,35.0
+Ankit Soni,,Right_Hand,Legbreak,,
+Anureet Singh,1988-03-02,Right_Hand,Right-arm medium,India,38.0
+AP Dole,1987-10-09,Right_Hand,Right-arm medium-fast,India,39.0
+AP Majumdar,1984-04-30,Right_Hand,Legbreak googly,India,42.0
+AP Tare,1987-11-07,Right_Hand,,India,39.0
+AR Bawne,,Right_Hand,,,
+AR Patel,1994-01-20,Left_Hand,Slow left-arm orthodox,India,32.0
+AS Rajpoot,1993-12-04,Right_Hand,Right-arm medium,India,33.0
+AS Raut,1987-03-03,Right_Hand,Legbreak googly,India,39.0
+AS Yadav,,Right_Hand,,,
+AT Rayudu,1985-09-23,Right_Hand,Right-arm offbreak,India,41.0
+AUK Pathan,1984-06-17,Right_Hand,Right-arm medium,India,42.0
+AV Wankhade,1992-03-14,Right_Hand,,India,34.0
+Avesh Khan,,Right_Hand,Right-arm fast-medium,,
+Azhar Mahmood,1975-02-28,Right_Hand,Right-arm fast-medium,Pakistan,51.0
+B Akhil,1977-10-07,Right_Hand,Right-arm medium-fast,India,49.0
+B Aparajith,1994-07-08,Right_Hand,Right-arm offbreak,India,32.0
+B Chipli,1983-01-27,Right_Hand,Right-arm medium,India,43.0
+B Geeves,1982-06-13,Right_Hand,Right-arm fast-medium,Australia,44.0
+B Kumar,1990-02-05,Right_Hand,Right-arm medium,India,36.0
+B Laughlin,1982-10-03,Right_Hand,Right-arm fast-medium,Australia,44.0
+B Lee,1976-11-08,Right_Hand,Right-arm fast,Australia,50.0
+B Stanlake,,Right_Hand,Right-arm fast,,
+B Sumanth,1988-05-10,Right_Hand,Right-arm medium-fast,India,38.0
+BA Bhatt,1990-05-13,Left_Hand,Slow left-arm orthodox,India,36.0
+BA Stokes,,Left_Hand,Right-arm fast-medium,,
+Basil Thampi,,Right_Hand,Right-arm fast,,
+BAW Mendis,1985-03-11,Right_Hand,Right-arm offbreak,Sri Lanka,41.0
+BB McCullum,1981-09-27,Right_Hand,Right-arm medium,New Zealand,45.0
+BB Samantray,1988-12-14,Right_Hand,,India,38.0
+BB Sran,1992-12-10,Left_Hand,Left-arm medium,India,34.0
+BCJ Cutting,1987-01-30,Right_Hand,Right-arm fast-medium,Australia,39.0
+BE Hendricks,1990-06-08,Left_Hand,Left-arm fast-medium,South Africa,36.0
+Bipul Sharma,1983-09-28,Left_Hand,Slow left-arm orthodox,India,43.0
+BJ Haddin,1977-10-23,Right_Hand,,Australia,49.0
+BJ Hodge,1974-12-29,Right_Hand,Right-arm offbreak,Australia,52.0
+BJ Rohrer,1981-03-26,Left_Hand,Right-arm offbreak,Australia,45.0
+BMAJ Mendis,1983-01-15,Left_Hand,Right-arm offbreak,Sri Lanka,43.0
+BR Dunk,1987-03-11,Left_Hand,Right-arm fast,Australia,39.0
+BW Hilfenhaus,1983-03-15,Right_Hand,Right-arm fast,Australia,43.0
+C de Grandhomme,,Right_Hand,Legbreak,,
+C Ganapathy,1981-06-10,Right_Hand,Right-arm medium,India,45.0
+C Ingram,,Left_Hand,Right-arm fast-medium,,
+C Madan,1982-10-15,Right_Hand,,India,44.0
+C Munro,1987-03-11,Left_Hand,Right-arm medium-fast,New Zealand,39.0
+C Nanda,1979-03-29,Right_Hand,Legbreak,India,47.0
+CA Ingram,1985-07-03,Left_Hand,Legbreak,South Africa,41.0
+CA Lynn,1990-04-10,Right_Hand,Slow left-arm orthodox,Australia,36.0
+CA Pujara,1988-01-25,Right_Hand,Legbreak,India,38.0
+CH Gayle,1979-09-21,Left_Hand,Right-arm offbreak,West Indies,47.0
+CH Morris,1987-04-30,Right_Hand,Right-arm fast-medium,South Africa,39.0
+CJ Anderson,1990-12-13,Left_Hand,Left-arm medium-fast,New Zealand,36.0
+CJ Ferguson,1984-11-21,Right_Hand,Right-arm medium,Australia,42.0
+CJ Jordan,1988-10-04,Right_Hand,Right-arm fast-medium,England,38.0
+CJ McKay,1983-02-20,Right_Hand,Right-arm fast-medium,Australia,43.0
+CK Kapugedera,1987-02-24,Right_Hand,Right-arm medium,Sri Lanka,39.0
+CK Langeveldt,1974-12-17,Right_Hand,Right-arm fast-medium,England,52.0
+CL White,1983-08-18,Right_Hand,Legbreak googly,Australia,43.0
+CM Gautam,1986-03-08,Right_Hand,,India,40.0
+CR Brathwaite,1988-07-18,Right_Hand,Right-arm fast-medium,West Indies,38.0
+CR Woakes,,Right_Hand,Right-arm fast-medium,,
+CRD Fernando,1979-07-19,Right_Hand,Right-arm fast-medium,Sri Lanka,47.0
+D du Preez,1981-11-08,Right_Hand,Right-arm fast-medium,South Africa,45.0
+D Kalyankrishna,1983-12-16,Right_Hand,Right-arm medium-fast,India,43.0
+D Salunkhe,1982-11-12,Right_Hand,Legbreak,India,44.0
+D Shorey,,Right_Hand,,,
+D Short,,Left_Hand,Slow left-arm orthodox,,
+D Wiese,1985-05-18,Right_Hand,Right-arm medium-fast,South Africa,41.0
+D Willey,,Right_Hand,Left-arm fast-medium,,
+DA Miller,1989-06-10,Left_Hand,Right-arm offbreak,South Africa,37.0
+DA Warner,1986-10-27,Left_Hand,Legbreak,Australia,40.0
+DAJ Bracewell,1990-09-28,Right_Hand,Right-arm fast-medium,New Zealand,36.0
+DB Das,1986-09-22,Right_Hand,Legbreak googly,India,40.0
+DB Ravi Teja,1987-09-05,Right_Hand,Legbreak googly,India,39.0
+DE Bollinger,1981-07-24,Left_Hand,Left-arm fast-medium,Australia,45.0
+DH Yagnik,1983-06-22,Left_Hand,,India,43.0
+DJ Bravo,1983-10-07,Right_Hand,Right-arm medium-fast,West Indies,43.0
+DJ Harris,1979-12-31,Right_Hand,Right-arm medium,Australia,47.0
+DJ Hooda,1995-04-19,Right_Hand,Right-arm offbreak,India,31.0
+DJ Hussey,1977-07-15,Right_Hand,Right-arm offbreak,Australia,49.0
+DJ Jacobs,1982-11-04,Right_Hand,Right-arm medium,South Africa,44.0
+DJ Muthuswami,1981-03-09,Right_Hand,Right-arm medium,India,45.0
+DJ Thornely,1978-10-01,Right_Hand,Right-arm medium,Australia,48.0
+DJG Sammy,1983-12-20,Right_Hand,Right-arm medium-fast,West Indies,43.0
+DL Chahar,1992-08-07,Right_Hand,Right-arm medium,India,34.0
+DL Vettori,1979-01-27,Left_Hand,Slow left-arm orthodox,New Zealand,47.0
+DM Bravo,,Left_Hand,,,
+DNT Zoysa,1978-05-13,Left_Hand,Left-arm fast-medium,Sri Lanka,48.0
+DP Nannes,1976-05-16,Right_Hand,Left-arm fast,Australia,50.0
+DP Vijaykumar,1986-10-20,Right_Hand,Right-arm medium,India,40.0
+DPMD Jayawardene,1977-05-27,Right_Hand,Right-arm medium,Sri Lanka,49.0
+DR Martyn,1971-10-21,Right_Hand,Right-arm medium,Australia,55.0
+DR Smith,1983-04-12,Right_Hand,Right-arm medium,West Indies,43.0
+DS Kulkarni,1988-12-10,Right_Hand,Right-arm medium,India,38.0
+DS Lehmann,1970-02-05,Left_Hand,Slow left-arm orthodox,Australia,56.0
+DT Christian,1983-05-04,Right_Hand,Right-arm fast-medium,Australia,43.0
+DT Patil,1984-12-06,Right_Hand,,India,42.0
+DW Steyn,1983-06-27,Right_Hand,Right-arm fast,South Africa,43.0
+E Lewis,,Left_Hand,,,
+EJG Morgan,1986-09-10,Left_Hand,Right-arm medium,England,40.0
+ER Dwivedi,1988-07-22,Right_Hand,,India,38.0
+F Behardien,1983-10-09,Right_Hand,Right-arm fast-medium,South Africa,43.0
+F du Plessis,1984-07-13,Right_Hand,Legbreak,South Africa,42.0
+FH Edwards,1982-02-06,Right_Hand,Right-arm fast,West Indies,44.0
+FY Fazal,1985-09-07,Left_Hand,Right-arm medium,India,41.0
+G Gambhir,1981-10-14,Left_Hand,Legbreak,India,45.0
+Gagandeep Singh,1981-10-03,Right_Hand,Right-arm medium-fast,India,45.0
+GB Hogg,1971-02-06,Left_Hand,Slow left-arm chinaman,Australia,55.0
+GC Smith,1981-02-01,Left_Hand,Right-arm offbreak,South Africa,45.0
+GD McGrath,1970-02-09,Right_Hand,Right-arm fast-medium,Australia,56.0
+GH Vihari,1993-10-13,Right_Hand,Right-arm offbreak,India,33.0
+GJ Bailey,1982-09-07,Right_Hand,Right-arm medium,Australia,44.0
+GJ Maxwell,1988-10-14,Right_Hand,Right-arm offbreak,Australia,38.0
+GR Napier,1980-01-06,Right_Hand,Right-arm medium,England,46.0
+GS Sandhu,1993-06-14,Left_Hand,Right-arm fast-medium,Australia,33.0
+Gurkeerat Singh,1990-06-29,Right_Hand,Right-arm offbreak,India,36.0
+H Brar,,Left_Hand,Slow left-arm orthodox,,
+H Das,1986-12-10,Right_Hand,,India,40.0
+H Gurney,,Right_Hand,Right-arm fast-medium,,
+H Klaasen,,Right_Hand,,,
+H Vihari,,Right_Hand,Right-arm offbreak,,
+H Viljoen,,Right_Hand,Right-arm fast,,
+Harbhajan Singh,1980-07-03,Right_Hand,Right-arm offbreak,India,46.0
+Harmeet Singh,1992-09-07,Left_Hand,Slow left-arm orthodox,India,34.0
+Harmeet Singh (2),,Right_Hand,Right-arm fast-medium,,
+Harpreet Singh,1991-08-11,Left_Hand,Right-arm medium,India,35.0
+HH Gibbs,1974-02-23,Right_Hand,Right-arm bowler,South Africa,52.0
+HH Pandya,1993-10-11,Right_Hand,Right-arm medium-fast,India,33.0
+HM Amla,1983-03-31,Right_Hand,Right-arm offbreak,South Africa,43.0
+HV Patel,1990-11-23,Right_Hand,Right-arm medium,India,36.0
+I Malhotra,1984-05-23,Right_Hand,Right-arm medium-fast,India,42.0
+I Sharma,1988-09-02,Right_Hand,Right-arm fast-medium,India,38.0
+I Sodhi,,Right_Hand,Legbreak googly,,
+IC Pandey,1989-08-15,Right_Hand,Right-arm medium,India,37.0
+IK Pathan,1984-10-27,Left_Hand,Left-arm medium-fast,India,42.0
+Imran Tahir,1979-03-27,Right_Hand,Legbreak googly,India,47.0
+Iqbal Abdulla,1989-12-02,Left_Hand,Slow left-arm orthodox,India,37.0
+IR Jaggi,1989-01-27,Right_Hand,Legbreak googly,India,37.0
+Ishan Kishan,1998-07-18,Left_Hand,,India,28.0
+J Archer,,Right_Hand,Right-arm fast,,
+J Arunkumar,1975-01-18,Right_Hand,Right-arm offbreak,India,51.0
+J Bairstow,,Right_Hand,,,
+J Behrendorff,,Right_Hand,Left-arm fast-medium,,
+J Botha,1982-05-02,Right_Hand,Right-arm offbreak,South Africa,44.0
+J Dala,,,Right-arm Medium,,
+J Denly,,Right_Hand,,,
+J Searles,,Right_Hand,Right-arm fast-medium,,
+J Suchith,1994-01-16,Left_Hand,Slow left-arm orthodox,India,32.0
+J Syed Mohammad,1983-06-03,Left_Hand,Slow left-arm orthodox,India,43.0
+J Theron,1985-07-24,Right_Hand,Right-arm medium-fast,South Africa,41.0
+J Yadav,1990-01-22,Right_Hand,Right-arm offbreak,India,36.0
+JA Morkel,1981-06-10,Left_Hand,Right-arm medium-fast,South Africa,45.0
+Jaskaran Singh,1989-09-04,Right_Hand,Right-arm medium,India,37.0
+JC Buttler,1990-09-08,Right_Hand,,England,36.0
+JD Ryder,1984-08-06,Left_Hand,Right-arm medium,New Zealand,42.0
+JD Unadkat,1991-10-18,Right_Hand,Left-arm medium,India,35.0
+JDP Oram,1978-07-28,Left_Hand,Right-arm fast-medium,New Zealand,48.0
+JDS Neesham,1990-09-17,Left_Hand,Right-arm medium,New Zealand,36.0
+JE Taylor,1984-06-22,Right_Hand,Right-arm fast,New Zealand,42.0
+JEC Franklin,1980-11-07,Left_Hand,Left-arm medium,New Zealand,46.0
+JH Kallis,1975-10-16,Right_Hand,Right-arm fast-medium,South Africa,51.0
+JJ Bumrah,1993-12-06,Right_Hand,Right-arm medium,India,33.0
+JJ Roy,,Right_Hand,,,
+JJ van der Wath,1978-01-10,Right_Hand,Right-arm medium-fast,South Africa,48.0
+JM Kemp,1977-10-02,Right_Hand,Right-arm fast-medium,South Africa,49.0
+JO Holder,1991-11-05,Right_Hand,Right-arm medium-fast,West Indies,35.0
+Joginder Sharma,1983-10-23,Right_Hand,Right-arm fast-medium,India,43.0
+JP Duminy,1984-04-14,Left_Hand,Right-arm offbreak,South Africa,42.0
+JP Faulkner,1990-04-29,Right_Hand,Left-arm fast-medium,Australia,36.0
+JR Hopes,1978-10-24,Right_Hand,Right-arm medium,Australia,48.0
+JW Hastings,1985-11-04,Right_Hand,Right-arm fast-medium,Australia,41.0
+K Ahmed,,Right_Hand,Left-arm fast-medium,,
+K Goel,1986-12-24,Left_Hand,Right-arm offbreak,India,40.0
+K Gowtham,,Right_Hand,Right-arm offbreak,,
+K Khejroliya,,Right_Hand,Left-arm fast-medium,,
+K Paul,,Right_Hand,Right-arm fast-medium,,
+K Rabada,,Left_Hand,Right-arm fast,,
+K Santokie,1984-12-20,Left_Hand,Left-arm medium,West Indies,42.0
+K Upadhyay,1986-06-18,Right_Hand,Right-arm medium,India,40.0
+KA Pollard,1987-05-12,Right_Hand,Right-arm medium-fast,West Indies,39.0
+KAJ Roach,1988-06-30,Right_Hand,Right-arm fast,West Indies,38.0
+Kamran Akmal,1982-01-13,Right_Hand,,Pakistan,44.0
+Kamran Khan,1991-03-10,Left_Hand,Left-arm medium-fast,India,35.0
+Karanveer Singh,1987-11-08,Right_Hand,Legbreak googly,India,39.0
+KB Arun Karthik,1986-02-15,Right_Hand,Legbreak googly,India,40.0
+KC Cariappa,1994-04-13,Right_Hand,Legbreak,India,32.0
+KC Sangakkara,1977-10-27,Left_Hand,Right-arm offbreak,Sri Lanka,49.0
+KD Karthik,1985-06-01,Right_Hand,,India,41.0
+KH Devdhar,1989-12-14,Right_Hand,,India,37.0
+KH Pandya,1991-03-24,Left_Hand,Slow left-arm orthodox,India,35.0
+KJ Abbott,1987-06-18,Right_Hand,Right-arm fast-medium,South Africa,39.0
+KK Cooper,1989-02-16,Right_Hand,Right-arm medium,West Indies,37.0
+KK Nair,1991-12-06,Right_Hand,Right-arm offbreak,India,35.0
+KL Rahul,1992-04-18,Right_Hand,,India,34.0
+KM Asif,,Right_Hand,Right-arm medium,,
+KM Jadhav,1985-03-26,Right_Hand,Right-arm offbreak,India,41.0
+KMDN Kulasekara,1982-07-22,Right_Hand,Right-arm fast-medium,Sri Lanka,44.0
+KP Appanna,1988-12-20,Right_Hand,Slow left-arm orthodox,India,38.0
+KP Pietersen,1980-06-27,Right_Hand,Right-arm offbreak,South Africa,46.0
+KS Williamson,1990-08-08,Right_Hand,Right-arm offbreak,New Zealand,36.0
+Kuldeep Yadav,1994-12-14,Left_Hand,Slow left-arm chinaman,India,32.0
+KV Sharma,1987-10-23,Left_Hand,Legbreak googly,India,39.0
+KW Richardson,1991-02-12,Right_Hand,Right-arm fast-medium,Australia,35.0
+L Ablish,1982-12-03,Right_Hand,Right-arm medium-fast,India,44.0
+L Balaji,1981-09-27,Right_Hand,Right-arm medium-fast,India,45.0
+L Ferguson,,Right_Hand,Right-arm fast,,
+L Livingstone,,Right_Hand,Right-arm offbreak,,
+L Ngidi,,Right_Hand,Slow left-arm orthodox,,
+L Plunkett,,Right_Hand,Right-arm fast,,
+L Ronchi,1981-04-23,Right_Hand,Right-arm fast,Australia,45.0
+LA Carseldine,1975-11-17,Left_Hand,Legbreak,Australia,51.0
+LA Pomersbach,1984-09-28,Left_Hand,Right-arm medium,Australia,42.0
+LH Ferguson,,Right_Hand,Right-arm fast-medium,,
+LJ Wright,1985-03-07,Right_Hand,Right-arm medium-fast,England,41.0
+LMP Simmons,1985-01-25,Right_Hand,Right-arm medium-fast,West Indies,41.0
+LPC Silva,1979-12-14,Right_Hand,Legbreak,Sri Lanka,47.0
+LR Shukla,1981-05-06,Right_Hand,Right-arm medium,India,45.0
+LRPL Taylor,1984-03-08,Right_Hand,Right-arm offbreak,New Zealand,42.0
+M Ali,,Left_Hand,Right-arm offbreak,,
+M Ashwin,1990-09-08,Right_Hand,Legbreak googly,India,36.0
+M de Lange,1990-10-13,Right_Hand,Right-arm fast,South Africa,36.0
+M Kaif,1980-12-01,Right_Hand,Right-arm offbreak,India,46.0
+M Kartik,1976-09-11,Left_Hand,Slow left-arm orthodox,India,50.0
+M Klinger,1980-07-04,Right_Hand,,Australia,46.0
+M Lomror,,Left_Hand,Slow left-arm orthodox,,
+M Manhas,1979-10-12,Right_Hand,Right-arm offbreak,India,47.0
+M Markande,,Right_Hand,Legbreak googly,,
+M Morkel,1984-10-06,Left_Hand,Right-arm fast,South Africa,42.0
+M Muralitharan,1972-04-17,Right_Hand,Right-arm offbreak,Sri Lanka,54.0
+M Ntini,1977-07-06,Right_Hand,Right-arm fast,South Africa,49.0
+M Rawat,1985-10-25,Right_Hand,,India,41.0
+M Santner,,Left_Hand,Slow left-arm orthodox,,
+M Ur Rahman,,Right_Hand,Right-arm offbreak,,
+M Vijay,1984-04-01,Right_Hand,Right-arm offbreak,India,42.0
+M Vohra,1993-07-18,Right_Hand,Right-arm medium,India,33.0
+M Wood,,Right_Hand,Right-arm fast,,
+MA Agarwal,1991-02-16,Right_Hand,,India,35.0
+MA Khote,1980-04-22,Right_Hand,Right-arm medium,India,46.0
+MA Starc,1990-01-30,Left_Hand,Left-arm fast,Australia,36.0
+Mandeep Singh,1991-12-18,Right_Hand,Right-arm medium,India,35.0
+Mashrafe Mortaza,1983-10-05,Right_Hand,Right-arm fast-medium,Bangladesh,43.0
+MB Parmar,1988-04-12,Right_Hand,Right-arm offbreak,India,38.0
+MC Henriques,1987-02-01,Right_Hand,Right-arm fast-medium,Australia,39.0
+MC Juneja,1990-09-12,Right_Hand,Right-arm offbreak,India,36.0
+MD Mishra,1984-02-09,Right_Hand,Right-arm offbreak,India,42.0
+MDKJ Perera,1990-08-17,Left_Hand,,Sri Lanka,36.0
+MEK Hussey,1975-05-27,Left_Hand,Right-arm medium,Australia,51.0
+MF Maharoof,1984-09-07,Right_Hand,Right-arm fast-medium,India,42.0
+MG Johnson,1981-11-02,Left_Hand,Left-arm fast,Australia,45.0
+MG Neser,1990-03-29,Right_Hand,Right-arm medium,Australia,36.0
+Misbah-ul-Haq,1974-05-28,Right_Hand,Legbreak,Pakistan,52.0
+MJ Clarke,1981-04-02,Right_Hand,Slow left-arm orthodox,Australia,45.0
+MJ Guptill,1986-09-30,Right_Hand,Right-arm offbreak,New Zealand,40.0
+MJ Henry,,Right_Hand,Right-arm fast,,
+MJ Lumb,1980-02-12,Left_Hand,Right-arm medium,England,46.0
+MJ McClenaghan,1986-06-11,Left_Hand,Left-arm fast-medium,New Zealand,40.0
+MK Pandey,1989-09-10,Right_Hand,Right-arm medium,India,37.0
+MK Tiwary,1985-11-14,Right_Hand,Legbreak googly,India,41.0
+ML Hayden,1971-10-29,Left_Hand,Right-arm medium,Australia,55.0
+MM Patel,1983-07-12,Right_Hand,Right-arm medium-fast,India,43.0
+MM Sharma,1988-09-18,Right_Hand,Right-arm medium,India,38.0
+MN Samuels,1981-02-05,Right_Hand,Right-arm offbreak,West Indies,45.0
+MN van Wyk,1979-03-20,Right_Hand,Slow left-arm orthodox,South Africa,47.0
+Mohammad Ashraful,1984-07-07,Right_Hand,Right-arm offbreak,Bangladesh,42.0
+Mohammad Asif,1982-12-20,Left_Hand,Right-arm fast-medium,Pakistan,44.0
+Mohammad Hafeez,1980-10-17,Right_Hand,Right-arm offbreak,Pakistan,46.0
+Mohammad Nabi,,Right_Hand,Right-arm offbreak,,
+Mohammed Shami,1990-09-03,Right_Hand,Right-arm fast-medium,India,36.0
+Mohammed Siraj,,Right_Hand,Right-arm fast,,
+MP Stoinis,1989-08-16,Right_Hand,Right-arm medium,Australia,37.0
+MR Marsh,1991-10-20,Right_Hand,Right-arm medium,Australia,35.0
+MS Bisla,1984-12-27,Right_Hand,,India,42.0
+MS Dhoni,1981-07-07,Right_Hand,Right-arm medium,India,45.0
+MS Gony,1984-01-04,Right_Hand,Right-arm medium,India,42.0
+MS Wade,1987-12-26,Left_Hand,Right-arm medium,Australia,39.0
+Mustafizur Rahman,1995-09-06,Left_Hand,Left-arm fast-medium,Bangladesh,31.0
+MV Boucher,1976-12-03,Right_Hand,Right-arm medium,South Africa,50.0
+N Naik,,Right_Hand,,,
+N Pooran,,Left_Hand,,,
+N Rana,1993-12-27,Left_Hand,Right-arm offbreak,India,33.0
+N Saini,1988-10-28,Right_Hand,Right-arm fast,India,38.0
+NB Singh,,Right_Hand,Right-arm fast,,
+ND Doshi,1978-10-06,Right_Hand,Slow left-arm orthodox,India,48.0
+Niraj Patel,,Left_Hand,,,
+NJ Maddinson,1991-12-21,Left_Hand,Slow left-arm orthodox,Australia,35.0
+NJ Rimmington,1982-11-11,Right_Hand,Right-arm fast-medium,Australia,44.0
+NK Patel,1981-03-26,Left_Hand,,India,45.0
+NL McCullum,1980-09-01,Right_Hand,Right-arm offbreak,New Zealand,46.0
+NLTC Perera,1989-04-03,Left_Hand,Right-arm medium-fast,Sri Lanka,37.0
+NM Coulter-Nile,1987-10-11,Right_Hand,Right-arm fast,Australia,39.0
+NS Naik,1994-11-09,Right_Hand,,India,32.0
+NV Ojha,1983-07-20,Right_Hand,,India,43.0
+O Thomas,,Right_Hand,Right-arm fast,,
+OA Shah,1978-10-22,Right_Hand,Right-arm offbreak,England,48.0
+P Amarnath,1982-06-01,Right_Hand,Right-arm medium,India,44.0
+P Awana,1986-07-19,Right_Hand,Right-arm medium,India,40.0
+P Chopra,,Right_Hand,,,
+P Dharmani,1974-09-27,Right_Hand,,India,52.0
+P Dogra,1984-11-19,Right_Hand,Legbreak,India,42.0
+P Krishna,,Right_Hand,Right-arm fast,,
+P Kumar,1986-10-02,Right_Hand,Right-arm medium,India,40.0
+P Negi,1993-01-06,Left_Hand,Slow left-arm orthodox,India,33.0
+P Parameswaran,1985-05-30,Right_Hand,Left-arm medium,India,41.0
+P Prasanth,1985-05-22,Left_Hand,Slow left-arm orthodox,India,41.0
+P R Barman,,Right_Hand,Legbreak,,
+P Raj,,Right_Hand,Left-arm medium,,
+P Sahu,1985-08-21,Right_Hand,Legbreak googly,India,41.0
+P Shaw,,Right_Hand,,,
+P Suyal,1989-10-15,Right_Hand,Left-arm medium,India,37.0
+PA Patel,1985-03-09,Left_Hand,,India,41.0
+PA Reddy,1991-02-11,Right_Hand,Legbreak,India,35.0
+Pankaj Singh,1985-05-06,Right_Hand,Right-arm medium-fast,India,41.0
+Parvez Rasool,1989-02-13,Right_Hand,Right-arm offbreak,India,37.0
+PC Valthaty,1983-12-07,Right_Hand,Right-arm medium,India,43.0
+PD Collingwood,1976-05-26,Right_Hand,Right-arm medium,England,50.0
+PJ Cummins,1993-05-08,Right_Hand,Right-arm fast,Australia,33.0
+PJ Sangwan,1990-11-05,Right_Hand,Left-arm medium,India,36.0
+PM Sarvesh Kumar,1989-04-26,Right_Hand,Right-arm medium,India,37.0
+PP Chawla,1988-12-24,Left_Hand,Legbreak,India,38.0
+PP Ojha,1986-09-05,Left_Hand,Slow left-arm orthodox,India,40.0
+PR Shah,1987-11-03,Right_Hand,,India,39.0
+PSP Handscomb,1991-04-26,Right_Hand,,Australia,35.0
+PV Tambe,1971-10-08,Right_Hand,Legbreak,India,55.0
+Q de Kock,1992-12-17,Left_Hand,,South Africa,34.0
+R Ashwin,1986-09-17,Right_Hand,Right-arm offbreak,India,40.0
+R Bhatia,1979-10-22,Right_Hand,Right-arm medium-fast,India,47.0
+R Bhui,,Right_Hand,,,
+R Bishnoi,1987-10-08,Right_Hand,Right-arm medium-fast,India,39.0
+R Dhawan,1990-02-19,Right_Hand,Right-arm medium-fast,India,36.0
+R Dravid,1973-01-11,Right_Hand,Right-arm offbreak,India,53.0
+R McLaren,1983-02-09,Left_Hand,Right-arm medium-fast,South Africa,43.0
+R Ninan,1985-11-19,Right_Hand,Right-arm offbreak,India,41.0
+R Parag,,Right_Hand,Legbreak,,
+R Rampaul,1984-10-15,Left_Hand,Right-arm fast-medium,West Indies,42.0
+R Salam,,Right_Hand,Right-arm Fast,,
+R Sathish,1981-01-14,Right_Hand,Right-arm medium,India,45.0
+R Sharma,1987-04-30,Right_Hand,Right-arm offbreak,India,39.0
+R Shukla,1990-08-28,Right_Hand,Right-arm medium,India,36.0
+R Singh,,Right_Hand,,,
+R Tewatia,1993-05-20,Left_Hand,Legbreak,India,33.0
+R Vinay Kumar,1984-02-12,Right_Hand,Right-arm medium,India,42.0
+RA Jadeja,1988-12-06,Left_Hand,Slow left-arm orthodox,India,38.0
+RA Shaikh,1985-06-12,Left_Hand,Left-arm medium,India,41.0
+RA Tripathi,,Right_Hand,Right-arm medium,,
+Rashid Khan,,Right_Hand,Legbreak googly,,
+RD Chahar,,Right_Hand,Legbreak googly,,
+RE Levi,1988-01-14,Right_Hand,Right-arm medium,South Africa,38.0
+RE van der Merwe,1984-12-31,Right_Hand,Slow left-arm orthodox,South Africa,42.0
+RG More,1992-02-02,Right_Hand,Right-arm medium,India,34.0
+RG Sharma,1987-04-30,Right_Hand,Right-arm offbreak,India,39.0
+RJ Harris,1979-10-11,Right_Hand,Right-arm fast,Australia,47.0
+RJ Peterson,1979-08-04,Left_Hand,Slow left-arm orthodox,South Africa,47.0
+RJ Quiney,1982-08-20,Left_Hand,Right-arm medium,Australia,44.0
+RN ten Doeschate,1980-06-30,Right_Hand,Right-arm medium-fast,Netherlands,46.0
+RP Singh,1985-12-06,Right_Hand,Left-arm fast-medium,India,41.0
+RR Bhatkal,1985-09-01,Right_Hand,Right-arm medium,India,41.0
+RR Bose,1979-02-27,Right_Hand,Right-arm fast-medium,India,47.0
+RR Pant,1997-10-04,Left_Hand,,India,29.0
+RR Powar,1978-05-20,Right_Hand,Right-arm offbreak,India,48.0
+RR Raje,1986-09-03,Right_Hand,Right-arm fast-medium,India,40.0
+RR Rossouw,1989-10-09,Left_Hand,Right-arm offbreak,South Africa,37.0
+RR Sarwan,1980-06-23,Right_Hand,Legbreak,West Indies,46.0
+RS Bopara,1985-05-04,Right_Hand,Right-arm medium,England,41.0
+RS Gavaskar,1976-02-20,Left_Hand,Slow left-arm orthodox,India,50.0
+RS Sodhi,1980-10-18,Right_Hand,Right-arm medium,India,46.0
+RT Ponting,1974-12-19,Right_Hand,Right-arm medium,Australia,52.0
+RV Gomez,1985-10-16,Right_Hand,Right-arm medium,India,41.0
+RV Pawar,1979-09-06,Left_Hand,Slow left-arm orthodox,India,47.0
+RV Uthappa,1985-11-11,Right_Hand,Right-arm medium,India,41.0
+RW Price,1976-06-12,Right_Hand,Slow left-arm orthodox,Zimbabwea,50.0
+S Anirudha,1987-04-14,Right_Hand,,India,39.0
+S Aravind,1984-04-08,Left_Hand,Left-arm medium-fast,India,42.0
+S Badree,1981-03-09,Right_Hand,Legbreak,West Indies,45.0
+S Badrinath,1980-08-30,Right_Hand,Right-arm offbreak,India,46.0
+S Chanderpaul,1974-08-16,Left_Hand,Legbreak,West Indies,52.0
+S Curran,,Left_Hand,Left-arm medium-fast,,
+S Dhawan,1985-12-05,Left_Hand,Right-arm offbreak,India,41.0
+S Dube,,Left_Hand,Right-arm fast-medium,,
+S Gill,,Right_Hand,,,
+S Gopal,1993-09-04,Right_Hand,Legbreak,India,33.0
+S Hetmyer,,Left_Hand,,,
+S Kaul,1990-05-19,Right_Hand,Right-arm medium,India,36.0
+S Kaushik,1995-09-07,Right_Hand,Slow left-arm chinaman,India,31.0
+S Kuggeleijn,,Right_Hand,Right-arm fast,,
+S Ladda,1986-07-10,Right_Hand,Legbreak,India,40.0
+S Lamichhane,,Right_Hand,Legbreak googly,,
+S Mavi,,Right_Hand,Right-arm fast-medium,,
+S Midhun,,,Legbreak,,
+S Nadeem,1989-08-12,Right_Hand,Slow left-arm orthodox,India,37.0
+S Narwal,1982-04-16,Left_Hand,Right-arm medium,India,44.0
+S Rana,1984-09-18,Right_Hand,Right-arm medium-fast,India,42.0
+S Randiv,1985-01-30,Right_Hand,Right-arm offbreak,Sri Lanka,41.0
+S Rutherford,,Left_Hand,Right-arm fast-medium,,
+S Sharma,,Right_Hand,Right-arm fast-medium,,
+S Singh,,Right_Hand,,,
+S Sohal,1987-11-10,Right_Hand,Legbreak,India,39.0
+S Sreesanth,1983-02-06,Right_Hand,Right-arm fast-medium,India,43.0
+S Sriram,1976-02-21,Left_Hand,Slow left-arm orthodox,India,50.0
+S Tyagi,1987-09-17,Right_Hand,Right-arm medium,India,39.0
+S Vidyut,1981-12-03,Left_Hand,Slow left-arm orthodox,India,45.0
+S Warrier,,Right_Hand,Right-arm fast-medium,,
+SA Abbott,1992-02-29,Right_Hand,Right-arm fast-medium,New Zealand,34.0
+SA Asnodkar,1984-03-29,Right_Hand,Right-arm offbreak,India,42.0
+SA Yadav,1990-09-14,Right_Hand,Right-arm offbreak,India,36.0
+Sachin Baby,1988-12-18,Left_Hand,Right-arm offbreak,India,38.0
+Salman Butt,1984-10-07,Left_Hand,Right-arm offbreak,Pakistan,42.0
+Sandeep Sharma,1993-05-18,Right_Hand,Right-arm medium,India,33.0
+SB Bangar,1972-10-11,Right_Hand,Right-arm medium-fast,India,54.0
+SB Jakati,1980-11-27,Left_Hand,Slow left-arm orthodox,India,46.0
+SB Joshi,1970-06-06,Left_Hand,Slow left-arm orthodox,India,56.0
+SB Styris,1975-07-10,Right_Hand,Right-arm medium,New Zealand,51.0
+SB Wagh,1988-10-09,Left_Hand,Left-arm medium-fast,India,38.0
+SC Ganguly,1972-07-08,Left_Hand,Right-arm medium,India,54.0
+SD Chitnis,1987-05-06,Right_Hand,Right-arm offbreak,India,39.0
+SD Lad,,Right_Hand,,,
+SE Bond,1975-06-07,Right_Hand,Right-arm fast,New Zealand,51.0
+SE Marsh,1983-07-09,Left_Hand,Slow left-arm orthodox,Australia,43.0
+Shahid Afridi,1980-03-01,Right_Hand,Legbreak googly,Pakistan,46.0
+Shakib Al Hasan,1987-03-24,Left_Hand,Slow left-arm orthodox,Bangladesh,39.0
+Shivam Sharma,1993-09-09,Right_Hand,Right-arm offbreak,India,33.0
+Shoaib Ahmed,1990-08-17,Right_Hand,Right-arm fast-medium,Pakistan,36.0
+Shoaib Akhtar,1975-08-13,Right_Hand,Right-arm fast,Pakistan,51.0
+Shoaib Malik,1982-02-01,Right_Hand,Right-arm offbreak,Pakistan,44.0
+SJ Srivastava,1981-09-22,Right_Hand,Left-arm fast-medium,India,45.0
+SK Raina,1986-11-27,Left_Hand,Right-arm offbreak,India,40.0
+SK Trivedi,1982-09-04,Right_Hand,Right-arm medium,India,44.0
+SK Warne,1969-09-13,Right_Hand,Legbreak googly,Australia,57.0
+SL Malinga,1983-08-28,Right_Hand,Right-arm fast,Sri Lanka,43.0
+SM Boland,1989-04-11,Right_Hand,Right-arm fast-medium,Australia,37.0
+SM Harwood,1974-03-01,Right_Hand,Right-arm fast-medium,Australia,52.0
+SM Katich,1975-08-21,Left_Hand,Slow left-arm chinaman,Australia,51.0
+SM Pollock,1973-07-16,Right_Hand,Right-arm fast-medium,South Africa,53.0
+SMSM Senanayake,1985-02-09,Right_Hand,Right-arm offbreak,Sri Lanka,41.0
+SN Khan,1997-10-27,Right_Hand,Legbreak,India,29.0
+SN Thakur,1991-10-16,Right_Hand,Right-arm medium,India,35.0
+Sohail Tanvir,1984-12-12,Left_Hand,Left-arm medium-fast,Pakistan,42.0
+SP Fleming,1973-04-01,Left_Hand,,New Zealand,53.0
+SP Goswami,1989-05-18,Left_Hand,,India,37.0
+SP Jackson,,Right_Hand,,,
+SP Narine,1988-05-26,Left_Hand,Right-arm offbreak,West Indies,38.0
+SPD Smith,1989-06-02,Right_Hand,Legbreak googly,India,37.0
+SR Tendulkar,1973-04-24,Right_Hand,Right-arm offbreak,India,53.0
+SR Watson,1981-06-17,Right_Hand,Right-arm fast-medium,Australia,45.0
+SS Agarwal,,Right_Hand,Legbreak googly,,
+SS Iyer,1994-12-06,Right_Hand,Legbreak googly,India,32.0
+SS Mundhe,1988-10-27,Right_Hand,Right-arm medium,India,38.0
+SS Sarkar,1984-12-15,Right_Hand,Right-arm medium,India,42.0
+SS Shaikh,1987-01-18,Right_Hand,Right-arm medium,India,39.0
+SS Tiwary,1989-12-30,Left_Hand,,India,37.0
+ST Jayasuriya,1969-06-30,Left_Hand,Slow left-arm orthodox,Sri Lanka,57.0
+STR Binny,1984-06-03,Right_Hand,Right-arm medium,India,42.0
+Sunny Gupta,1988-09-27,Right_Hand,Right-arm offbreak,India,38.0
+Sunny Singh,1986-12-18,Right_Hand,Right-arm medium-fast,India,40.0
+SV Samson,1994-11-11,Right_Hand,,India,32.0
+SW Billings,1991-06-15,Right_Hand,,England,35.0
+SW Tait,1983-02-22,Right_Hand,Right-arm fast,Australia,43.0
+Swapnil Singh,1991-01-22,Right_Hand,Slow left-arm orthodox,India,35.0
+T Curran,,Right_Hand,Right-arm fast-medium,,
+T Henderson,1974-08-01,Right_Hand,Right-arm fast-medium,South Africa,52.0
+T Kohli,1988-12-17,Right_Hand,Right-arm medium,India,38.0
+T Mishra,1986-12-22,Right_Hand,Right-arm fast-medium,India,40.0
+T Natarajan,,Left_Hand,Left-arm fast-medium,,
+T Shamsi,1990-02-18,Right_Hand,Slow left-arm chinaman,South Africa,36.0
+T Taibu,1983-05-14,Right_Hand,Right-arm medium,Zimbabwea,43.0
+T Thushara,1981-03-01,Left_Hand,Left-arm fast-medium,Sri Lanka,45.0
+TA Boult,1989-07-22,Right_Hand,Left-arm fast-medium,New Zealand,37.0
+TD Paine,1984-12-08,Right_Hand,Right-arm medium,Australia,42.0
+Tejas Baroka,,,Legbreak googly,,
+TG Southee,1988-12-11,Right_Hand,Right-arm medium-fast,New Zealand,38.0
+TL Suman,1983-12-15,Right_Hand,Right-arm offbreak,India,43.0
+TM Dilshan,1976-10-14,Right_Hand,Right-arm offbreak,Sri Lanka,50.0
+TM Head,1993-12-29,Left_Hand,Right-arm offbreak,Australia,33.0
+TM Srivastava,1989-11-07,Left_Hand,Right-arm medium,India,37.0
+TP Sudhindra,1984-04-24,Left_Hand,Right-arm fast,India,42.0
+TR Birt,1981-12-09,Left_Hand,Right-arm medium,Australia,45.0
+TS Mills,,Right_Hand,Left-arm fast,,
+U Kaul,1987-12-02,Left_Hand,,India,39.0
+UA Birla,1989-11-17,Right_Hand,Right-arm medium,India,37.0
+UBT Chand,1993-03-26,Right_Hand,Right-arm offbreak,India,33.0
+Umar Gul,1984-04-14,Right_Hand,Right-arm fast-medium,Pakistan,42.0
+UT Khawaja,1986-12-18,Left_Hand,Right-arm medium,Australia,40.0
+UT Yadav,1987-10-25,Right_Hand,Right-arm fast-medium,India,39.0
+V Chakravarthy,,Right_Hand,Legbreak,,
+V Kohli,1988-11-05,Right_Hand,Right-arm medium,India,38.0
+V Pratap Singh,1992-05-03,Right_Hand,Right-arm medium,India,34.0
+V Sehwag,1978-10-20,Right_Hand,Right-arm offbreak,India,48.0
+V Shankar,1991-01-26,Right_Hand,Right-arm medium,India,35.0
+VH Zol,1994-11-23,Left_Hand,Right-arm offbreak,India,32.0
+Vishnu Vinod,,Right_Hand,,,
+VR Aaron,1989-10-29,Right_Hand,Right-arm fast,India,37.0
+VRV Singh,1984-09-17,Right_Hand,Right-arm medium-fast,India,42.0
+VS Malik,1983-05-09,Right_Hand,Right-arm medium,India,43.0
+VS Yeligati,1985-04-23,Right_Hand,Right-arm offbreak,India,41.0
+VVS Laxman,1974-11-01,Right_Hand,Right-arm offbreak,India,52.0
+VY Mahesh,1987-12-21,Right_Hand,Right-arm medium-fast,India,39.0
+W Jaffer,1978-02-16,Right_Hand,Right-arm offbreak,India,48.0
+WA Mota,1981-09-20,Right_Hand,Right-arm medium,India,45.0
+Washington Sundar,,Left_Hand,Right-arm offbreak,,
+WD Parnell,1989-07-30,Left_Hand,Left-arm medium-fast,South Africa,37.0
+WP Saha,1984-10-24,Right_Hand,,India,42.0
+WPUJC Vaas,1974-01-27,Left_Hand,Left-arm fast-medium,Sri Lanka,52.0
+X Thalaivan Sargunam,1985-05-15,Right_Hand,Right-arm offbreak,India,41.0
+Y Gnaneswara Rao,1984-08-25,Right_Hand,Right-arm medium,India,42.0
+Y Nagar,1990-01-06,Right_Hand,Right-arm offbreak,India,36.0
+Y Venugopal Rao,1982-02-26,Right_Hand,Right-arm offbreak,India,44.0
+YA Abdulla,1983-01-17,Left_Hand,Left-arm fast-medium,India,43.0
+Yashpal Singh,1981-11-27,Right_Hand,Right-arm medium,India,45.0
+YK Pathan,1982-11-17,Right_Hand,Right-arm offbreak,India,44.0
+Younis Khan,1977-11-29,Right_Hand,Right-arm medium,Pakistan,49.0
+YS Chahal,1990-07-23,Right_Hand,Legbreak googly,India,36.0
+Yuvraj Singh,1981-12-12,Left_Hand,Slow left-arm orthodox,India,45.0
+YV Takawale,1984-11-05,Right_Hand,,India,42.0
+Z Khan,1978-10-07,Right_Hand,Left-arm fast-medium,India,48.0
